@@ -1,0 +1,50 @@
+img{
+    width:70%;
+}
+
+.col-lg-6{
+    display : flex;
+    align-items: center;
+}
+
+.top_header_button{
+    background-color : #3c4852;
+    border-radius : 10px ;
+}
+
+.doctor{
+    background-color : #f5f5f5;
+
+}
+
+.i_am_medical{
+    align-items: center;
+}
+
+.med{
+    background-color: #3c4852;
+    min-height: 70vh;
+    padding:3%;
+    box-shadow: 0px 0px 16px 6px rgba(0, 0, 0, 0.489);
+    transition-duration: 400ms;
+    color: antiquewhite;
+    font-size: 22px;
+}
+
+.med:hover{
+    box-shadow: 0px 0px 16px 6px rgba(0, 0, 0, 0.714);
+}
+
+.sof{
+    background-color: #c9ad59;
+    min-height: 70vh;
+    padding:3%;
+    box-shadow: 0px 0px 16px 6px rgba(0, 0, 0, 0.489);
+    transition-duration: 400ms;
+    color: #2d3033;
+    font-size: 22px;
+}
+
+.sof:hover{
+    box-shadow: 0px 0px 16px 6px rgba(0, 0, 0, 0.714);
+}
